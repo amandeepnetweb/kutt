@@ -1,4 +1,3 @@
-.env
 .vscode/
 logs
 client/.next/
@@ -14,3 +13,4 @@ docs/api/static
 **/.DS_Store
 db/*
 !db/.gitkeep
+config.bat
