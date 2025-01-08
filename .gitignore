@@ -1,4 +1,3 @@
-.env
 .vscode/
 logs
 client/.next/
@@ -12,3 +11,4 @@ production-server
 dump.rdb
 docs/api/*.js
 docs/api/static
+config.bat
